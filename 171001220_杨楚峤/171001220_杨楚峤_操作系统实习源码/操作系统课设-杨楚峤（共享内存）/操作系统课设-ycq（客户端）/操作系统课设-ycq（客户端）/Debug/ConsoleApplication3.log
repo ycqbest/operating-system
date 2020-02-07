@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  操作系统课设-ycq（客户端）.cpp
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(6): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+  c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(6): note: 命令行参数: 参见前面的“_CRT_SECURE_NO_WARNINGS”定义
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(6): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+  c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(6): note: 将宏添加到预编译头中，而不是在此处定义
+  c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(7): note: 使用预编译头
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(691): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(850): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(855): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(858): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(870): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(872): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(906): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(921): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(937): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(1131): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(1203): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(1217): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(1739): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(1814): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(1994): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yangchuqiao\desktop\consoleapplication3\consoleapplication3\操作系统课设-ycq（客户端）.cpp(2004): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication3.vcxproj -> C:\Users\yangchuqiao\Desktop\ConsoleApplication3\Debug\操作系统课设-ycq（客户端）.exe
+  ConsoleApplication3.vcxproj -> C:\Users\yangchuqiao\Desktop\ConsoleApplication3\Debug\操作系统课设-ycq（客户端）.pdb (Full PDB)

@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  操作系统课设-ycq（客户端）.vcxproj -> C:\Users\yangchuqiao\Desktop\杨楚峤-操作系统课设\171001220_杨楚峤_答辩前\操作系统课设-杨楚峤（共享内存）\操作系统课设-ycq（客户端）\操作系统课设-ycq（客户端）\Debug\操作系统课设-ycq（客户端）.exe
+  操作系统课设-ycq（客户端）.vcxproj -> C:\Users\yangchuqiao\Desktop\杨楚峤-操作系统课设\171001220_杨楚峤_答辩前\操作系统课设-杨楚峤（共享内存）\操作系统课设-ycq（客户端）\操作系统课设-ycq（客户端）\Debug\操作系统课设-ycq（客户端）.pdb (Full PDB)

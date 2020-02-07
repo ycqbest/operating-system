@@ -1,0 +1,36 @@
+﻿  Source.cpp
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(309): warning C4804: “%”: 在操作中使用类型“bool”不安全
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(181): warning C4101: “buff”: 未引用的局部变量
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(746): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(805): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1137): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1138): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1139): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1140): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1141): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1142): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1143): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1144): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1145): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1550): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1801): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1872): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1873): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1874): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1875): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1876): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1877): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1878): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1879): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1880): warning C4129: “/”: 不可识别的字符转义序列
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1954): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1981): warning C4101: “peek”: 未引用的局部变量
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(786): warning C4715: “free_inode”: 不是所有的控件路径都返回值
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(794): warning C4715: “free_block”: 不是所有的控件路径都返回值
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1069): warning C4715: “rm”: 不是所有的控件路径都返回值
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1132): warning C4715: “m_export”: 不是所有的控件路径都返回值
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(1357): warning C4715: “copy”: 不是所有的控件路径都返回值
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(2005): warning C4715: “xcopy”: 不是所有的控件路径都返回值
+c:\users\yangchuqiao\desktop\你懂的\os_project\os_project\source.cpp(2124): warning C4715: “move”: 不是所有的控件路径都返回值
+  OS_Project.vcxproj -> C:\Users\yangchuqiao\Desktop\你懂的\OS_Project\OS_Project\Debug\OS_Project.exe
+  OS_Project.vcxproj -> C:\Users\yangchuqiao\Desktop\你懂的\OS_Project\OS_Project\Debug\OS_Project.pdb (Full PDB)
